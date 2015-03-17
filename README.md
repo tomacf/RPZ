@@ -58,7 +58,7 @@ Le système dans sa conception doit absolument être ouvert au débat. Il est n�
 
 ####Secondaire
 
-Ce projet dans sa conception a été écrit dans la nécessité de trouver des recours aux abus de Ionis sur les élèves d'Epitech, à une échelle plus grande il faudrat probablement regrouper les individu dans différentes population et sous population pour préserver un ciblage dans les problématiques qui leur sont proposée.    
+Ce projet dans sa conception a été écrit pour mener l'expérience au sein des promotions d'Epitech, à une échelle plus grande il faudrat probablement regrouper les individu dans différentes population et sous population pour préserver un ciblage dans les problématiques qui leur sont proposée.    
 
 Question en suspens :
 - Une population doit elle exiger d'un individu qu'il respecte certains critères pour qu'il soit accepté dans cette population ?
