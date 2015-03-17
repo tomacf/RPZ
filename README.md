@@ -4,11 +4,12 @@
 ####Introduction
 
 Le but de ce projet est de permettre à une population de s’organiser pour présenter une opposition ou une proposition à une entité.
+
 Les objectifs à atteindre sont :
-Déterminer et faire avancer une problématique.
-Rassembler facilement une population dans le cadre d'une problématique.
-Faire l'expérience du tirage au sort pour déterminer des représentants.
-Responsabiliser chaque individu.
+    Déterminer et faire avancer une problématique.
+    Rassembler facilement une population dans le cadre d'une problématique.
+    Faire l'expérience du tirage au sort pour déterminer des représentants.
+    Responsabiliser chaque individu.
 
 ####Débat
 
